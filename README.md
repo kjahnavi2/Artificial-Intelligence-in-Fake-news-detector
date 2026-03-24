@@ -36,3 +36,4 @@ jupyter notebook notebooks/fake_news_detection.ipynb
 ## 📌 Future Work
 - Use advanced models (Random Forest, XGBoost, LSTM, BERT)
 - Deploy with Flask/Streamlit
+testing badges
